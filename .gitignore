@@ -163,3 +163,5 @@ examples/dev_sandbox/temp/*
 # pixi environments
 .pixi*
 *.egg-info
+
+*.nc
